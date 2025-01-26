@@ -90,7 +90,7 @@ function draw() {
      }
      if (kb.pressing("n") && h === 0) {
       textSize(20)
-      text("Oh! Allright.", 300, 100)
+      text("Oh! Alright.", 300, 100)
      }
     
      if (kb.pressing("t") && x < 230 && y < 250 && x > 50 && y > 150 && r === 1){
